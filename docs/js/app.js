@@ -629,7 +629,7 @@ eval("module.exports = __webpack_require__.p + \"img/iidhyh-bg3.d4214308.jpg\";\
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	!function() {
-/******/ 		__webpack_require__.p = "/";
+/******/ 		__webpack_require__.p = "/mw_vue_staging/";
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/jsonp chunk loading */
